@@ -10,7 +10,7 @@ def prompt_bot():
     print("Hi! I'm a chat bot that can help you find the best prompts for your needs.")
     name = input("What's your name? ")
     print(f"Nice to meet you, {name}!")
-    project = input("What is the name of your project or business? ")
+    project = input("What would you like to know about today? ")
     model = input("What AI models are you using? ")
     outcomes = input("What are your desired outcomes? ")
 
