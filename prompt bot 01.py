@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 
 # Define the chat bot
